@@ -3,3 +3,31 @@ Inspired by [Dvorak](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard), 
 
 This is an AutoHotkey Script I use.
 
+* **For Dvorak by Nizo:** this is the original script, written for use on [my custom layout](https://github.com/theNizo/DvorakByNizo-German), which is a german [dvorak](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard) version. / Das ist das originale Skript, welches für [mein Eigenes Layout](https://github.com/theNizo/DvorakByNizo-German) geschrieben wurde.
+* **For US Dvorak (coming soon):** This is made to be used with the standard US Dvorak keyboard
+* **For QWERTY (coming soon):** Written for QWERTY
+* **For QWERTZ (coming soon/kommt bald):** Made for QWERTZ (German version) / Für QWERTZ
+
+## Install
+Deutscher Teil im Anschluss
+
+1. Download the file for the preferred layout
+2. place it somewhere
+3. Put it into Autostart (In Windows: Win+R, type "shell:startup", enter and create a new shortcut to the file)
+4. Enjoy
+
+## Issues
+
+**How can it activate CapsLock?** Dvorak: Caps+K; QWERTY/QWERTZ: Caps+V
+**The spaces are inserted after I release the space bar** This is necessary for some shortcuts. If it's really bothering, edit the file. Go down to the section with the Space Bar Hotkeys and delete it/turn it into a comment (put /* before and */ after it)
+
+## Installation
+
+1. Datei für gewünschtes Layout herunterladen
+2. Irgendwo hin speichern
+3. Zu Autostart hinzufügen (In Windows: Win+R, "shell:startup" eingen, Enter, Shortcut erstellen)
+4. Es toll finden (oder auch nicht, kann ja auch sein)
+
+## Probleme
+
+Wird morgen (am 09.04.2019) übersetzt
