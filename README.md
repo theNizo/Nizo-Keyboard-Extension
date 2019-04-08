@@ -3,6 +3,8 @@ Inspired by [Dvorak](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard), 
 
 This is an AutoHotkey Script I use.
 
+**Requirements:** [AutoHotkey](https://www.autohotkey.com/)
+
 * **For Dvorak by Nizo:** this is the original script, written for use on [my custom layout](https://github.com/theNizo/DvorakByNizo-German), which is a german [dvorak](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard) version. / Das ist das originale Skript, welches für [mein Eigenes Layout](https://github.com/theNizo/DvorakByNizo-German) geschrieben wurde.
 * **For US Dvorak (coming soon):** This is made to be used with the standard US Dvorak keyboard
 * **For QWERTY (coming soon):** Written for QWERTY
