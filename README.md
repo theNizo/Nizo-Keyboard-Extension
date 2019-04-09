@@ -40,7 +40,7 @@ Deutscher Teil im Anschluss
 # German
 
 ### Aber warum
-Damit sich die Finger wenigenr herumbewegen und weil es schnelller ist. Ich brauch viel kürzer, den Backspace hotkey zu verwenden, als meine Hand zur tatsächlichen Taste zu bewegen.
+Damit sich die Finger weniger herumbewegen und weil es schnelller ist. Ich brauch viel kürzer, den Backspace hotkey zu verwenden, als meine Hand zur tatsächlichen Taste zu bewegen.
 
 ## Installation
 
