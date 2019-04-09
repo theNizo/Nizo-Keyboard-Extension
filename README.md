@@ -15,7 +15,7 @@ This is an AutoHotkey Script I use.
 
 The scripts might have some bugs (they rarely happen). Reloading normally fixes everything. / Die Skripte könnten den ein oder anderen Fehler beinhalten (treten kaum auf). Neu laden hilft meistens.
 
-**Only the first one is tested. I ported it by changing the keys, so the oher files should work. If they don't, please contact me and I'll fix it.**
+**Only the first one is tested. I ported it by changing the keys, so the oher files should work. If they don't, please contact me and I'll fix it. / Nur das erste ist wirklich getestet. Die anderen wurden nur gestartet, um zu schauen, ob sie überhaupt funktionieren. Wenn Fehler auftreten, bitte mich kontaktieren.**
 
 # English
 
