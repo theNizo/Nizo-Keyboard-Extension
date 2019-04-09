@@ -31,7 +31,7 @@ Deutscher Teil im Anschluss
 1. Datei für gewünschtes Layout herunterladen
 2. Irgendwo hin speichern
 3. Zu Autostart hinzufügen (In Windows: Win+R, "shell:startup" eingen, Enter, Shortcut erstellen)
-4. Es toll finden (oder auch nicht, kann ja auch sein)
+4. Es toll finden (oder auch nicht, wer weiß)
 
 ## Probleme
 
