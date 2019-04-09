@@ -26,6 +26,8 @@ Deutscher Teil im Anschluss
 
 **The spaces are inserted after I release the space bar** This is necessary for some shortcuts. If it's really bothering, edit the file. Go down to the section with the Space Bar Hotkeys and delete it/turn it into a comment (put /* before and */ after it)
 
+**I cant deactivate NumLock** Numlock is something that bothered me all the time, because it is usually turned off. With the script, it's forced to always be on. If you don't want that, remove the second line (SetNumLockState) or put a ; in front.
+
 ## Installation
 
 1. Datei für gewünschtes Layout herunterladen
@@ -38,3 +40,5 @@ Deutscher Teil im Anschluss
 **Wie kann ich CapsLock aktivieren?** Caps+RShift
 
 **Abstände werden erste eingefügt, wenn ich die Leertaste loslasse.** Das liegt an den Hotkeys, die mit der Leertaste funktionieren. Wenn es zu lästig ist, bitte das Skript bearbeiten, zu dam Teil mit den Space Hotkeys Scrollen und entweder rauslöschen, oder auskommentieren (/* davor und */ danach hinschreiben).
+
+**Ich kann NumLock nicht deaktivieren** NumLock hat mich meistens genervt, weil ich das Nummernfeld nur zum Zahlen eingeben verwende, aber das standardmäßig ausgeschaltet ist. Im Skript wird es zwangsweise eingeschaltet. Wenn man das nicht will, 2. Zeile (SetNumLockState) entfernen oder auskommentieren (; davorsetzten).
