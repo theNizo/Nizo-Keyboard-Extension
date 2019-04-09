@@ -1,3 +1,5 @@
+;made by Nizo
+
 #SingleInstance force
 SetNumlockState, AlwaysOn
 SetCapsLockState, AlwaysOff
@@ -46,13 +48,13 @@ RAlt & LAlt::
 	t::Down
 	n::Up
 	s::Right
-	ß::Del
+	ÃŸ::Del
 	
 	b::Enter
 #If
 
 #If NumPad
-	ü::
+	Ã¼::
 		Send, %Percent%
 		return
 	,::^
@@ -69,7 +71,7 @@ RAlt & LAlt::
 	s::+
 	z::Enter
 	f::$
-	d::€
+	d::â‚¬
 	b::=
 	
 	g::1
@@ -102,7 +104,7 @@ RAlt & LAlt::
 			Send, {WheelRight}
 		return
 		
-	ü::PGUP
+	Ã¼::PGUP
 	,::XButton1
 	.::XButton2
 	p::PGDN
@@ -134,14 +136,14 @@ RAlt & LAlt::
 	t::Down
 	n::Up
 	s::Right
-	ß::Del
+	ÃŸ::Del
 	
 	b::Enter
 #If
 
 ;Space commands
 Space::Space
-Space & ü::(
+Space & Ã¼::(
 Space & ,::, ;Need to test, if ; appears when I press Shift
 Space & .::.
 Space & p::)
@@ -162,6 +164,6 @@ Space & h::7
 Space & t::8
 Space & n::9
 Space & s::0
-Space & ß::
+Space & ÃŸ::
 	Send, %Percent%
 	return
