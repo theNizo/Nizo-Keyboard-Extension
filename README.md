@@ -7,10 +7,16 @@ This is an AutoHotkey Script I use.
 
 **Requirements:** [AutoHotkey](https://www.autohotkey.com/)
 
+
 * **For Dvorak by Nizo:** this is the original script, written for use on [my custom layout](https://github.com/theNizo/DvorakByNizo-German), which is a german [dvorak](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard) version. / Das ist das originale Skript, welches für [mein Eigenes Layout](https://github.com/theNizo/DvorakByNizo-German) geschrieben wurde.
 * **For US Dvorak (coming soon):** This is made to be used with the standard US Dvorak keyboard
 * **For QWERTY (coming soon):** Written for QWERTY
 * **For QWERTZ (coming soon/kommt bald):** Made for QWERTZ (German version) / Für QWERTZ
+
+# English
+
+### But why?
+For less finger movement and higher speed. For example, It's much quicker to use the backspace hotkey than moving my hand to the backspace button.
 
 ## Install
 Deutscher Teil im Anschluss
@@ -28,6 +34,11 @@ Deutscher Teil im Anschluss
 **The spaces are inserted after I release the space bar** This is necessary for some shortcuts. If it's really bothering, edit the file. Go down to the section with the Space Bar Hotkeys and delete it/turn it into a comment (put /* before and */ after it)
 
 **I cant deactivate NumLock** Numlock is something that bothered me all the time, because it is usually turned off. With the script, it's forced to always be on. If you don't want that, remove the second line (SetNumLockState) or put a ; in front.
+
+# German
+
+### Aber warum
+Damit sich die Finger wenigenr herumbewegen und weil es schnelller ist. Ich brauch viel kürzer, den Backspace hotkey zu verwenden, als meine Hand zur tatsächlichen Taste zu bewegen.
 
 ## Installation
 
