@@ -32,4 +32,5 @@ Deutscher Teil im Anschluss
 
 ## Probleme
 
-Wird morgen (am 09.04.2019) übersetzt
+**Wie kann ich CapsLock aktivieren?** Caps+RShift
+**Abstände werden erste eingefügt, wenn ich die Leertaste loslasse.** Das liegt an den Hotkeys, die mit der Leertaste funktionieren. Wenn es zu lästig ist, bitte das Skript bearbeiten, zu dam Teil mit den Space Hotkeys Scrollen und entweder rauslöschen, oder auskommentieren (/* davor und */ danach hinschreiben).
