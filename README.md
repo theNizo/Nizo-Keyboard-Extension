@@ -9,9 +9,11 @@ This is an AutoHotkey Script I use.
 
 
 * **For Dvorak by Nizo:** this is the original script, written for use on [my custom layout](https://github.com/theNizo/DvorakByNizo-German), which is a german [dvorak](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard) version. / Das ist das originale Skript, welches für [mein Eigenes Layout](https://github.com/theNizo/DvorakByNizo-German) geschrieben wurde.
-* **For US Dvorak (coming soon):** This is made to be used with the standard US Dvorak keyboard
-* **For QWERTY (coming soon):** Written for QWERTY
-* **For QWERTZ (coming soon/kommt bald):** Made for QWERTZ (German version) / Für QWERTZ
+* **For US Dvorak:** This is made to be used with the standard US Dvorak keyboard
+* **For QWERTY (coming soon):** Written for QWERTY. Coming when I find out how to make a hotkey with ";" (the symbol for comments in AHK)
+* **For QWERTZ:** Made for QWERTZ (German version) / Für QWERTZ
+
+**Only the first one is tested. I ported it by changing the keys, so the oher files should work. If they don't, please contact me and I'll fix it.**
 
 # English
 
