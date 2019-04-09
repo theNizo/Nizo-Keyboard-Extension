@@ -10,8 +10,10 @@ This is an AutoHotkey Script I use.
 
 * **For Dvorak by Nizo:** this is the original script, written for use on [my custom layout](https://github.com/theNizo/DvorakByNizo-German), which is a german [dvorak](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard) version. / Das ist das originale Skript, welches für [mein Eigenes Layout](https://github.com/theNizo/DvorakByNizo-German) geschrieben wurde.
 * **For US Dvorak:** This is made to be used with the standard US Dvorak keyboard
-* **For QWERTY (coming soon):** Written for QWERTY. Coming when I find out how to make a hotkey with ";" (the symbol for comments in AHK)
+* **For QWERTY:** Written for QWERTY.
 * **For QWERTZ:** Made for QWERTZ (German version) / Für QWERTZ
+
+The scripts might have some bugs (they rarely happen). Reloading normally fixes everything. / Die Skripte könnten den ein oder anderen Fehler beinhalten (treten kaum auf). Neu laden hilft meistens.
 
 **Only the first one is tested. I ported it by changing the keys, so the oher files should work. If they don't, please contact me and I'll fix it.**
 
@@ -26,7 +28,7 @@ Deutscher Teil im Anschluss
 1. Download the file for the preferred layout
 2. place it somewhere
 3. Edit if you don't like something (most of the relevant stuff is described. If not, please let me know.)
-4. Put it into Autostart (In Windows: Win+R, type "shell:startup", enter and create a new shortcut to the file)
+4. Put it into Autostart (In Windows: Win+R, type "shell:startup", enter and create a new shortcut to the file) Make sure the keyboard which the script is written for is normally selected. Otherwise, some hotkeys will not work until you switch to it and reload the script.
 5. Enjoy
 
 ## Issues
@@ -47,7 +49,7 @@ Damit sich die Finger weniger herumbewegen und weil es schnelller ist. Ich brauc
 1. Datei für gewünschtes Layout herunterladen
 2. Irgendwo hin speichern
 3. Bearbeiten, wenn etwas nicht passt (der großteil der wichtigen Sachen ist beschrieben. Wenn nicht, bitte mich darauf aufmerksam machen.)
-4. Zu Autostart hinzufügen (In Windows: Win+R, "shell:startup" eingen, Enter, Shortcut erstellen)
+4. Zu Autostart hinzufügen (In Windows: Win+R, "shell:startup" eingen, Enter, Shortcut erstellen). Bitte sicherstellen, dass das Layout, für das das Skript gedacht ist, standardmäßig ausgewählt ist, sonst funktionieren ein paar Hotkeys nicht, bis man zu dem Layout wechselt und das Skript neu ladet.
 5. Es toll finden (oder auch nicht, wer weiß)
 
 ## Probleme
