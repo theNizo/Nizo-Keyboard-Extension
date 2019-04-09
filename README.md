@@ -1,3 +1,5 @@
+Preview/Cheatsheet: the png file
+
 # Nizo's ultimate Keyboard
 Inspired by 40% Keyboards like the [MiniVan](https://i.ytimg.com/vi/g6bKhcrlnn8/maxresdefault.jpg) and the [Neo Layout](https://www.neo-layout.org/).
 
