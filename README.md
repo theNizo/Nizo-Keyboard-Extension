@@ -1,4 +1,4 @@
-Preview/Cheatsheet: the png file
+**Preview/Cheatsheet:** the png file
 
 # Nizo's ultimate Keyboard
 Inspired by 40% Keyboards like the [MiniVan](https://i.ytimg.com/vi/g6bKhcrlnn8/maxresdefault.jpg) and the [Neo Layout](https://www.neo-layout.org/).
@@ -23,6 +23,7 @@ Deutscher Teil im Anschluss
 ## Issues
 
 **How can it activate CapsLock?** Dvorak: Caps+K; QWERTY/QWERTZ: Caps+V
+
 **The spaces are inserted after I release the space bar** This is necessary for some shortcuts. If it's really bothering, edit the file. Go down to the section with the Space Bar Hotkeys and delete it/turn it into a comment (put /* before and */ after it)
 
 ## Installation
@@ -35,4 +36,5 @@ Deutscher Teil im Anschluss
 ## Probleme
 
 **Wie kann ich CapsLock aktivieren?** Caps+RShift
+
 **Abstände werden erste eingefügt, wenn ich die Leertaste loslasse.** Das liegt an den Hotkeys, die mit der Leertaste funktionieren. Wenn es zu lästig ist, bitte das Skript bearbeiten, zu dam Teil mit den Space Hotkeys Scrollen und entweder rauslöschen, oder auskommentieren (/* davor und */ danach hinschreiben).
