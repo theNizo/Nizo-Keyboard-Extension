@@ -1,7 +1,7 @@
 **Preview/Cheatsheet:** the png file
 
 # Nizo's ultimate Keyboard
-Inspired by 40% Keyboards like the [MiniVan](https://i.ytimg.com/vi/g6bKhcrlnn8/maxresdefault.jpg) and the [Neo Layout](https://www.neo-layout.org/).
+Inspired by [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)), 40% Keyboards like the [MiniVan](https://i.ytimg.com/vi/g6bKhcrlnn8/maxresdefault.jpg) and the [Neo Layout](https://www.neo-layout.org/).
 
 This is an AutoHotkey Script I use.
 
@@ -17,8 +17,9 @@ Deutscher Teil im Anschluss
 
 1. Download the file for the preferred layout
 2. place it somewhere
-3. Put it into Autostart (In Windows: Win+R, type "shell:startup", enter and create a new shortcut to the file)
-4. Enjoy
+3. Edit if you don't like something (most of the relevant stuff is described. If not, please let me know.)
+4. Put it into Autostart (In Windows: Win+R, type "shell:startup", enter and create a new shortcut to the file)
+5. Enjoy
 
 ## Issues
 
@@ -32,8 +33,9 @@ Deutscher Teil im Anschluss
 
 1. Datei für gewünschtes Layout herunterladen
 2. Irgendwo hin speichern
-3. Zu Autostart hinzufügen (In Windows: Win+R, "shell:startup" eingen, Enter, Shortcut erstellen)
-4. Es toll finden (oder auch nicht, wer weiß)
+3. Bearbeiten, wenn etwas nicht passt (der großteil der wichtigen Sachen ist beschrieben. Wenn nicht, bitte mich darauf aufmerksam machen.)
+4. Zu Autostart hinzufügen (In Windows: Win+R, "shell:startup" eingen, Enter, Shortcut erstellen)
+5. Es toll finden (oder auch nicht, wer weiß)
 
 ## Probleme
 
