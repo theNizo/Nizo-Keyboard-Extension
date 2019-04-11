@@ -33,7 +33,7 @@ Deutscher Teil im Anschluss
 
 ## Issues
 
-**How can it activate CapsLock?** Caps+R
+**How can it activate CapsLock?** Caps+RShift
 
 **The spaces are inserted after I release the space bar** This is necessary for some shortcuts. If it's really bothering, edit the file. Go down to the section with the Space Bar Hotkeys and delete it/turn it into a comment (put /* before and */ after it)
 
