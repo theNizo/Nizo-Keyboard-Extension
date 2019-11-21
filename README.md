@@ -1,5 +1,7 @@
 **Preview/Cheatsheet:** the png file
 
+(Partly implemented in the Linux version of [my keyboard layout.](https://github.com/theNizo/DvorakByNizo-German))
+
 # Nizo's ultimate Keyboard
 Inspired by [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)), 40% Keyboards like the [MiniVan](https://i.ytimg.com/vi/g6bKhcrlnn8/maxresdefault.jpg) (buy it [here](https://thevankeyboards.com/)) and the [Neo Layout](https://www.neo-layout.org/).
 
