@@ -1,3 +1,5 @@
+(abandoned until further notice)
+
 **Preview/Cheatsheet:** the png file
 
 (Partly implemented in the Linux version of [my keyboard layout.](https://github.com/theNizo/DvorakByNizo-German))
